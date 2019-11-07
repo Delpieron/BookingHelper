@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookingHelper", "BookingHelper\BookingHelper.csproj", "{6A0B8B1D-A20A-4744-AB5C-49870371306F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookingHelperTests", "BookingHelperTests\BookingHelperTests.csproj", "{D6A036F3-36D7-438E-A324-7190F3F6D849}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A0B8B1D-A20A-4744-AB5C-49870371306F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A0B8B1D-A20A-4744-AB5C-49870371306F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A0B8B1D-A20A-4744-AB5C-49870371306F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A0B8B1D-A20A-4744-AB5C-49870371306F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6A036F3-36D7-438E-A324-7190F3F6D849}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6A036F3-36D7-438E-A324-7190F3F6D849}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6A036F3-36D7-438E-A324-7190F3F6D849}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6A036F3-36D7-438E-A324-7190F3F6D849}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD11B0A0-7E34-4AD3-9878-0CA11E19C301}
+	EndGlobalSection
+EndGlobal
